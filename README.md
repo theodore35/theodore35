@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theodore35
 - 👀 I’m interested in ... The Cyber Feild
-- 🌱 I’m currently learning ... Electronic Warfare Operations
+- 🌱 I’m currently learning ... EW/Cyber
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Gmail, Phone
 
